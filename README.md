@@ -1,3 +1,4 @@
 
 ...
-https://github.com/MyroslavaSkulimenko/sharkProject.git
+
+https://myroslavaskulimenko.github.io/sharkProject/
